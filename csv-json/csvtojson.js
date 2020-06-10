@@ -44,3 +44,6 @@ rl.on('close', () => {
 // 		console.log('Your csv file converted to json.');
 // 	});
 // });
+
+// if you want to convert csv file with csvtojson module ..first install the module through npm .e.g = npm i csvtojson
+// and save the commented code in javascript file and run the file in terminal.
