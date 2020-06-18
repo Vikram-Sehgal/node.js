@@ -2,6 +2,7 @@
 // run the commands in terminal...
 
 npm init -y
+
 npm i express morgan body-parser -E
 
 // copy the server.js and route folder and paste in your directory
