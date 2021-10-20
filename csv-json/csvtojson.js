@@ -1,5 +1,6 @@
 // My own code to convert a csv file to json file
 
+
 const fs = require('fs');
 const readline = require('readline');
 const file = fs.createReadStream('customer-data.xls');
